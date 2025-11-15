@@ -1,0 +1,2 @@
+[38;5;201m[2024-10-13 23:29:05,784] MARIA: ERROR [user id: ] Sorry failed to connect: (pymysql.err.OperationalError) (1045, "Access denied for user 'Youtube'@'37.157.214.8' (using password: YES)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)[0m

@@ -1,0 +1,11 @@
+[38;5;201m[2024-10-02 23:56:55,115] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-02 23:57:07,768] BOT: INFO [user id: 1357108258] https://www.tiktok.com/@_brunette_e_/video/7417465210069404936?is_from_webapp=1&sender_device=pc[0m
+[38;5;87m[2024-10-02 23:57:07,829] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-02 23:57:08,531] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-02 23:57:10,752] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 2, 23, 57, 10, 752891), 'finish download'][0m
+[38;5;87m[2024-10-02 23:57:16,013] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 2, 23, 57, 16, 13821), 'finish sending'][0m
+[38;5;87m[2024-10-02 23:57:17,640] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-02 23:57:18,158] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-02 23:57:19,194] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 2, 23, 57, 19, 194161), 'finish download'][0m
+[38;5;87m[2024-10-02 23:57:23,571] BOT: ERROR [user id: ] Telegram server says - Bad Request: message text is empty[0m
+[38;5;87m[2024-10-02 23:57:23,818] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 2, 23, 57, 23, 818238), 'finish sending'][0m

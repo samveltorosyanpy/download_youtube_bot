@@ -1,0 +1,9 @@
+[38;5;201m[2024-11-07 22:59:29,949] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-07 22:59:42,257] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=EzBnOgkarms[0m
+[38;5;87m[2024-11-07 22:59:45,444] BOT: INFO [user id: 1357108258] user agent is valid for the url: https://www.youtube.com/watch?v=EzBnOgkarms[0m
+[38;5;87m[2024-11-07 22:59:49,633] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'EzBnOgkarms'][0m
+[38;5;87m[2024-11-07 22:59:50,301] BOT: INFO [user id: 1357108258] user agent is valid for the url: https://www.youtube.com/watch?v=EzBnOgkarms[0m
+[38;5;87m[2024-11-07 22:59:50,791] BOT: INFO [user id: 1357108258] Start download video: https://www.youtube.com/watch?v=EzBnOgkarms[0m
+[38;5;87m[2024-11-07 22:59:50,792] BOT: INFO [user id: 1357108258] finish download on path: /Users/samveltorosyan/projects/YoutubeTgBot/media/videos/youtube_videos/2024T11T07TT22T59T50371128.mp4[0m
+[38;5;87m[2024-11-07 23:00:01,681] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'EzBnOgkarms'][0m
+[38;5;87m[2024-11-07 23:00:02,441] BOT: INFO [user id: 1357108258] user agent is valid for the url: https://www.youtube.com/watch?v=EzBnOgkarms[0m

@@ -1,0 +1,4 @@
+[38;5;201m[2024-11-09 15:59:39,085] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-09 15:59:49,058] BOT: INFO [user id: 1357108258] USER SEND TEXT: download_video_exemplar = NewYoutubeDownloadClass(chat_id=msg.chat.id, state=state, url=msg.text)[0m
+[38;5;87m[2024-11-09 15:59:55,313] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=kgZtefe8Qfg[0m
+[38;5;87m[2024-11-09 16:00:40,877] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m

@@ -1,0 +1,11 @@
+[38;5;201m[2024-11-28 23:02:40,165] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-28 23:02:57,038] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-28 23:03:04,497] BOT: INFO [user id: 1357108258] USER CLICK ON download_video 1080p ⚡️ XBleNfmkScA[0m
+[38;5;87m[2024-11-28 23:03:04,605] BOT: INFO [user id: ] {'message_id': 18999, 'download_now': False, 'language': 'ru'}[0m
+[38;5;87m[2024-11-28 23:03:08,439] BOT: INFO [user id: 1357108258] USER CLICK ON download_video 720p 📹 XBleNfmkScA[0m
+[38;5;87m[2024-11-28 23:03:08,537] BOT: INFO [user id: ] {'message_id': 18999, 'download_now': False, 'language': 'ru'}[0m
+[38;5;87m[2024-11-28 23:03:11,627] BOT: INFO [user id: ] {5940995211: True}[0m
+[38;5;87m[2024-11-28 23:03:13,014] BOT: INFO [user id: ] {5940995211: True}[0m
+[38;5;87m[2024-11-28 23:03:14,158] BOT: INFO [user id: ] {5940995211: True}[0m
+[38;5;87m[2024-11-28 23:03:15,246] BOT: INFO [user id: ] {5940995211: True}[0m
+[38;5;87m[2024-11-28 23:03:16,337] BOT: INFO [user id: ] {5940995211: True}[0m

@@ -1,0 +1,8 @@
+[38;5;201m[2024-10-23 13:17:32,576] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-23 13:17:52,935] BOT: INFO [user id: ] True[0m
+[38;5;87m[2024-10-23 13:17:52,936] BOT: INFO [user id: ] porcum em qashel 1[0m
+[38;5;87m[2024-10-23 13:17:57,563] BOT: INFO [user id: ] [+] Успешная авторизация![0m
+[38;5;87m[2024-10-23 13:17:57,564] BOT: INFO [user id: ] [+] Cookies сохранены в 'cookies.txt'[0m
+[38;5;87m[2024-10-23 13:17:58,042] BOT: INFO [user id: ] ERROR: [0m
+[38;5;87m[2024-10-23 13:17:58,042] BOT: INFO [user id: ] <Popen: returncode: None args: 'gallery-dl --sleep 5 -C cookies.txt "https:/...>[0m
+[38;5;87m[2024-10-23 13:17:58,042] BOT: INFO [user id: ] [][0m

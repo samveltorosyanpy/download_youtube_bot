@@ -1,0 +1,5 @@
+[38;5;201m[2024-10-23 12:00:32,997] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-23 12:00:39,788] BOT: INFO [user id: ] [-] Ошибка авторизации[0m
+[38;5;87m[2024-10-23 12:00:44,967] BOT: INFO [user id: ] [-] Ошибка авторизации[0m
+[38;5;87m[2024-10-23 12:03:19,965] BOT: INFO [user id: ] [-] Ошибка авторизации[0m
+[38;5;87m[2024-10-23 12:03:20,041] BOT: ERROR [user id: ] HTTP Client says - ClientConnectionError: Connector is closed.[0m

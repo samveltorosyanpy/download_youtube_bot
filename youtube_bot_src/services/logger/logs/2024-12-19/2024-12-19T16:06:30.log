@@ -1,0 +1,10 @@
+[38;5;201m[2024-12-19 16:06:32,316] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-12-19 16:06:35,480] BOT: INFO [user id: 1357108258] ADMIN CLICK ON clear_state[0m
+[38;5;87m[2024-12-19 16:06:37,940] BOT: INFO [user id: 1357108258] ADMIN CLICK ON mailing[0m
+[38;5;87m[2024-12-19 16:06:43,800] BOT: INFO [user id: 1357108258] USER SEND TEXT: None[0m
+[38;5;87m[2024-12-19 16:06:53,703] BOT: INFO [user id: 1357108258] USER SEND TEXT: 1 :|: https://www.instagram.com/stories/tevadiavel/3518430750831639277/[0m
+[38;5;87m[2024-12-19 16:06:59,380] BOT: INFO [user id: 1357108258] USER SEND TEXT: 1 :|: https://www.instagram.com/stories/tevadiavel/3518430750831639277/[0m
+[38;5;87m[2024-12-19 16:07:03,154] BOT: INFO [user id: 1357108258] USER SEND TEXT: /next[0m
+[38;5;201m[2024-12-19 16:07:03,873] MARIA: INFO [user id: ] create new mailing None, {'1': 'https://www.instagram.com/stories/tevadiavel/3518430750831639277/'}, {'photo': 'AgACAgIAAxkBAAJK52dkCeR4OODdXP8AASIIWtockyPQ6gACL-YxG8VhIUu6wtCUfEjqlwEAAwIAA3kAAzYE'}[0m
+[38;5;87m[2024-12-19 16:07:04,550] BOT: INFO [user id: ] Error 0[0m
+[38;5;87m[2024-12-19 16:07:04,550] BOT: INFO [user id: ] Error 1[0m

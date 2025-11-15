@@ -1,0 +1,187 @@
+[38;5;201m[2024-11-13 23:53:45,025] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-13 23:53:56,581] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-13 23:54:02,480] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 23:54:02,481] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 23:54:06,292] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1441 seconds.
+Original description: Too Many Requests: retry after 1441
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:06,802] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1441 seconds.
+Original description: Too Many Requests: retry after 1441
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:09,066] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1438 seconds.
+Original description: Too Many Requests: retry after 1438
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:09,475] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1438 seconds.
+Original description: Too Many Requests: retry after 1438
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:09,827] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1438 seconds.
+Original description: Too Many Requests: retry after 1438
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:10,168] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1437 seconds.
+Original description: Too Many Requests: retry after 1437
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:10,501] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1437 seconds.
+Original description: Too Many Requests: retry after 1437
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:10,815] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1437 seconds.
+Original description: Too Many Requests: retry after 1437
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:12,677] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1435 seconds.
+Original description: Too Many Requests: retry after 1435
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:13,046] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1434 seconds.
+Original description: Too Many Requests: retry after 1434
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:13,316] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1434 seconds.
+Original description: Too Many Requests: retry after 1434
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:13,589] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1434 seconds.
+Original description: Too Many Requests: retry after 1434
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:13,790] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1434 seconds.
+Original description: Too Many Requests: retry after 1434
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:13,986] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1434 seconds.
+Original description: Too Many Requests: retry after 1434
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:14,159] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1433 seconds.
+Original description: Too Many Requests: retry after 1433
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:14,334] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1433 seconds.
+Original description: Too Many Requests: retry after 1433
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:14,520] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1433 seconds.
+Original description: Too Many Requests: retry after 1433
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:14,693] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1433 seconds.
+Original description: Too Many Requests: retry after 1433
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:14,869] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1433 seconds.
+Original description: Too Many Requests: retry after 1433
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:15,053] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1432 seconds.
+Original description: Too Many Requests: retry after 1432
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:15,234] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1432 seconds.
+Original description: Too Many Requests: retry after 1432
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:15,425] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1432 seconds.
+Original description: Too Many Requests: retry after 1432
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:15,600] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1432 seconds.
+Original description: Too Many Requests: retry after 1432
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:15,788] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1432 seconds.
+Original description: Too Many Requests: retry after 1432
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:15,991] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1432 seconds.
+Original description: Too Many Requests: retry after 1432
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:16,168] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1431 seconds.
+Original description: Too Many Requests: retry after 1431
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:16,352] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1431 seconds.
+Original description: Too Many Requests: retry after 1431
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:16,542] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1431 seconds.
+Original description: Too Many Requests: retry after 1431
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:16,711] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1431 seconds.
+Original description: Too Many Requests: retry after 1431
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:16,902] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1431 seconds.
+Original description: Too Many Requests: retry after 1431
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:17,084] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1430 seconds.
+Original description: Too Many Requests: retry after 1430
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:17,256] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1430 seconds.
+Original description: Too Many Requests: retry after 1430
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:17,432] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1430 seconds.
+Original description: Too Many Requests: retry after 1430
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:17,607] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1430 seconds.
+Original description: Too Many Requests: retry after 1430
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:17,784] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1430 seconds.
+Original description: Too Many Requests: retry after 1430
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:17,956] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1430 seconds.
+Original description: Too Many Requests: retry after 1430
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:18,126] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1429 seconds.
+Original description: Too Many Requests: retry after 1429
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:18,297] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1429 seconds.
+Original description: Too Many Requests: retry after 1429
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:18,472] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1429 seconds.
+Original description: Too Many Requests: retry after 1429
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:18,643] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1429 seconds.
+Original description: Too Many Requests: retry after 1429
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:18,818] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1429 seconds.
+Original description: Too Many Requests: retry after 1429
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:18,999] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1428 seconds.
+Original description: Too Many Requests: retry after 1428
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:19,188] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1428 seconds.
+Original description: Too Many Requests: retry after 1428
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:19,361] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1428 seconds.
+Original description: Too Many Requests: retry after 1428
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:19,534] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1428 seconds.
+Original description: Too Many Requests: retry after 1428
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:19,720] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1428 seconds.
+Original description: Too Many Requests: retry after 1428
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:19,896] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1428 seconds.
+Original description: Too Many Requests: retry after 1428
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:20,065] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1427 seconds.
+Original description: Too Many Requests: retry after 1427
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:20,236] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1427 seconds.
+Original description: Too Many Requests: retry after 1427
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:20,420] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1427 seconds.
+Original description: Too Many Requests: retry after 1427
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:20,602] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1427 seconds.
+Original description: Too Many Requests: retry after 1427
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:20,775] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1427 seconds.
+Original description: Too Many Requests: retry after 1427
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:20,945] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1427 seconds.
+Original description: Too Many Requests: retry after 1427
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:21,118] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1426 seconds.
+Original description: Too Many Requests: retry after 1426
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:21,287] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1426 seconds.
+Original description: Too Many Requests: retry after 1426
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:21,468] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1426 seconds.
+Original description: Too Many Requests: retry after 1426
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:21,640] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1426 seconds.
+Original description: Too Many Requests: retry after 1426
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:21,816] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1426 seconds.
+Original description: Too Many Requests: retry after 1426
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:21,995] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1425 seconds.
+Original description: Too Many Requests: retry after 1425
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:22,205] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1425 seconds.
+Original description: Too Many Requests: retry after 1425
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-13 23:54:22,376] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 1425 seconds.
+Original description: Too Many Requests: retry after 1425
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m

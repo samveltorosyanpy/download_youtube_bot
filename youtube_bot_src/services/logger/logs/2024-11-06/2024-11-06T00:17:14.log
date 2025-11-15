@@ -1,0 +1,33 @@
+[38;5;201m[2024-11-06 00:17:17,014] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-06 00:17:26,835] BOT: ERROR [user id: 1357108258] 'NewYoutubeDownloadClass' object has no attribute 'url'[0m
+[38;5;87m[2024-11-06 00:17:26,835] BOT: ERROR [user id: 1357108258] USER SENT URL: [https://www.youtube.com/watch?v=mb8PIPIT][0m
+[38;5;87m[2024-11-06 00:17:40,607] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 1[0m
+[38;5;87m[2024-11-06 00:17:41,142] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 1[0m
+[38;5;87m[2024-11-06 00:17:41,708] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 1[0m
+[38;5;87m[2024-11-06 00:17:41,909] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 1[0m
+[38;5;87m[2024-11-06 00:17:42,095] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 1[0m
+[38;5;87m[2024-11-06 00:17:42,131] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 1[0m
+[38;5;87m[2024-11-06 00:17:42,574] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 2[0m
+[38;5;87m[2024-11-06 00:17:42,751] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 2[0m
+[38;5;87m[2024-11-06 00:17:42,928] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 2[0m
+[38;5;87m[2024-11-06 00:17:43,108] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 2[0m
+[38;5;87m[2024-11-06 00:17:43,281] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 2[0m
+[38;5;87m[2024-11-06 00:17:43,322] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 2[0m
+[38;5;87m[2024-11-06 00:17:43,493] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 3[0m
+[38;5;87m[2024-11-06 00:17:43,664] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 3[0m
+[38;5;87m[2024-11-06 00:17:43,835] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 3[0m
+[38;5;87m[2024-11-06 00:17:44,006] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 3[0m
+[38;5;87m[2024-11-06 00:17:44,175] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 3[0m
+[38;5;87m[2024-11-06 00:17:44,226] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 3[0m
+[38;5;87m[2024-11-06 00:17:44,395] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 4[0m
+[38;5;87m[2024-11-06 00:17:44,587] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 4[0m
+[38;5;87m[2024-11-06 00:17:44,755] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 4[0m
+[38;5;87m[2024-11-06 00:17:44,926] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 4[0m
+[38;5;87m[2024-11-06 00:17:45,107] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 4[0m
+[38;5;87m[2024-11-06 00:17:45,145] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 4[0m
+[38;5;87m[2024-11-06 00:17:45,315] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 5[0m
+[38;5;87m[2024-11-06 00:17:45,489] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 5[0m
+[38;5;87m[2024-11-06 00:17:45,661] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 5[0m
+[38;5;87m[2024-11-06 00:17:45,824] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 5[0m
+[38;5;87m[2024-11-06 00:17:45,992] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 5[0m
+[38;5;87m[2024-11-06 00:17:46,036] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 5[0m

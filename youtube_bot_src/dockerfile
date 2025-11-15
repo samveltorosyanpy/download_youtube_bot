@@ -1,0 +1,13 @@
+FROM python:3.11
+RUN apt-get -y update  && apt-get -y upgrade  \
+    && apt-get install -y sox  \
+    && apt-get install -y ffmpeg
+
+WORKDIR /app
+
+COPY requirements.txt ./
+
+RUN pip install --no-cache-dir -r requirements.txt && python3 -m pip install -U gallery-dl
+RUN python3 -m pip install --force-reinstall https://github.com/yt-dlp/yt-dlp/archive/master.tar.gz
+
+CMD ["python3", "lounch.py"]

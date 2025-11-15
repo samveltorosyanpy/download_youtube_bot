@@ -1,0 +1,68 @@
+[38;5;201m[2024-11-15 08:44:24,957] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-15 08:44:27,152] BOT: INFO [user id: 1357108258] USER SEND TEXT: 🏳️ language[0m
+[38;5;87m[2024-11-15 08:44:30,751] BOT: INFO [user id: 1357108258] USER SEND TEXT: 👤 subs[0m
+[38;5;87m[2024-11-15 08:44:33,810] BOT: INFO [user id: 1357108258] USER SEND TEXT: 🔎 search[0m
+[38;5;87m[2024-11-15 08:45:47,816] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-15 08:45:56,888] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:45:56,889] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:45:56,889] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:45:59,949] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:00,182] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:00,418] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:00,856] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:01,121] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:01,358] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:01,618] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:02,745] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:04,274] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:04,524] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:05,803] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:06,040] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:06,537] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:08,383] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:11,824] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:12,813] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:46:27,408] BOT: INFO [user id: 1357108258] USER SEND TEXT: 🏳️ language[0m
+[38;5;87m[2024-11-15 08:46:31,200] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,201] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,202] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,203] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,203] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:46:31,203] BOT: INFO [user id: 1357108258] USER CLICK ON ['change_language', 'en', 'English'][0m
+[38;5;87m[2024-11-15 08:47:08,472] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-15 08:47:15,431] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:47:15,431] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:47:15,431] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:49:49,098] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18484', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:49:49,098] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18484', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:49:49,098] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18484', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:49:49,098] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18484', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:49:56,663] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18484', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:49:56,663] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18484', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:49:56,663] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18484', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:49:56,663] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18484', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:49:59,368] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-15 08:50:07,165] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-15 08:50:13,222] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_mp3', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-15 08:50:13,222] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_mp3', 'XBleNfmkScA'][0m

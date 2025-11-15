@@ -1,0 +1,2 @@
+[38;5;201m[2024-12-02 19:05:52,009] MARIA: ERROR [user id: ] Sorry failed to connect: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '66.151.41.52' ([Errno 51] Network is unreachable)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)[0m

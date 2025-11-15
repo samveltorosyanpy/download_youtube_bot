@@ -1,0 +1,6 @@
+[38;5;201m[2024-11-13 17:30:42,202] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-13 17:30:43,768] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18192', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 17:30:43,768] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18192', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 17:30:43,768] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18192', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 17:30:48,880] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_mp3', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 17:31:00,856] BOT: ERROR [user id: ] HTTP Client says - ServerDisconnectedError: Server disconnected[0m

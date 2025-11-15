@@ -1,0 +1,7 @@
+[38;5;201m[2024-12-02 21:48:24,089] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-12-02 21:48:26,989] BOT: INFO [user id: 1357108258] USER CLICK ON download_video 144p 📹 XBleNfmkScA[0m
+[38;5;87m[2024-12-02 21:48:26,989] BOT: INFO [user id: ] {}[0m
+[38;5;87m[2024-12-02 21:48:39,873] BOT: INFO [user id: ] {1357108258: False}[0m
+[38;5;87m[2024-12-02 21:48:43,243] BOT: INFO [user id: 1357108258] USER CLICK ON back_to_main 19079 XBleNfmkScA[0m
+[38;5;87m[2024-12-02 21:48:48,369] BOT: INFO [user id: 1357108258] USER CLICK ON download_video 360p 📹 XBleNfmkScA[0m
+[38;5;87m[2024-12-02 21:48:48,369] BOT: INFO [user id: ] {1357108258: True}[0m

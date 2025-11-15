@@ -1,0 +1,4 @@
+[38;5;201m[2024-11-07 23:15:31,245] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-07 23:15:33,795] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'EzBnOgkarms'][0m
+[38;5;87m[2024-11-07 23:15:34,265] BOT: ERROR [user id: 1357108258] Expecting value: line 1 column 1 (char 0)[0m
+[38;5;87m[2024-11-07 23:15:34,266] BOT: ERROR [user id: 1357108258] USER SENT URL: [https://www.youtube.com/watch?v=EzBnOgkarms][0m

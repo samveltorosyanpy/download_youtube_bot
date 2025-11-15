@@ -1,0 +1,12 @@
+[38;5;201m[2024-11-11 23:09:31,896] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-11 23:09:35,435] BOT: INFO [user id: 1357108258] USER SEND TEXT: int(row["filesize"])[0m
+[38;5;87m[2024-11-11 23:09:40,336] BOT: INFO [user id: 1357108258] USER SEND TEXT: Ds, [11 нояб. 2024 г., 23:03:43]:
+https://www.youtube.com/watch?v=XBleNfmkScA
+
+
+test, [11 нояб. 2024 г., 23:03:49]:
+Oxxxymiron - Город под подошвой (2015)
+...[0m
+[38;5;87m[2024-11-11 23:09:46,456] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-11 23:09:46,458] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-11 23:09:53,814] BOT: ERROR [user id: ] HTTP Client says - ServerDisconnectedError: Server disconnected[0m

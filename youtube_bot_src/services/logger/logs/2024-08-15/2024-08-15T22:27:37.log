@@ -1,0 +1,7 @@
+[38;5;201m[2024-08-15 22:27:39,589] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-08-15 22:30:41,932] BOT: INFO [user id: 1357108258] Enter /start command[0m
+[38;5;87m[2024-08-15 22:30:42,315] BOT: INFO [user id: ] ['\nin the "send email" field, enter @vid or\n@SkachatsYouTubebot and find the video: \n\nFor example: 👇\n@vid Хcho\n@SkachatsYouTubebot Xcho\n                    ', 'start_en.png'][0m
+[38;5;87m[2024-08-15 22:30:56,886] BOT: INFO [user id: ] ['Download', 'MB', 'Sending audio, wait'][0m
+[38;5;87m[2024-08-15 22:30:57,445] BOT: INFO [user id: 1357108258] https://www.youtube.com/watch?v=czeYbohkyJw[0m
+[38;5;87m[2024-08-15 22:31:02,082] BOT: INFO [user id: ] [datetime.datetime(2024, 8, 15, 22, 31, 2, 82869), 'finish download'][0m
+[38;5;87m[2024-08-15 22:31:08,145] BOT: INFO [user id: ] [datetime.datetime(2024, 8, 15, 22, 31, 8, 145622), 'finish sending'][0m

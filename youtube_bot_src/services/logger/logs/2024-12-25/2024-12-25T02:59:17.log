@@ -1,0 +1,50 @@
+[38;5;201m[2024-12-25 02:59:19,162] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-12-25 02:59:21,666] BOT: INFO [user id: 1357108258] USER SEND TEXT: /start[0m
+[38;5;87m[2024-12-25 02:59:22,924] BOT: INFO [user id: 1357108258] Enter /start command[0m
+[38;5;87m[2024-12-25 02:59:23,222] BOT: INFO [user id: ] ['\nЗагрузка с Youtube и TikTok 🚀\n\n❗️3 Способ загрузить песню и видео с YouTube. 👇\n\n<blockquote>\n1. @vid имя (песня или видео)\n2. @SkachatsYouTubebot имя (песня или видео)\n3. И вы можете просто написать        название песни или видео\n</blockquote>\n\n❗️Способ загрузить песню и видео из TikTok. 👇\n\n<blockquote>\nПросто отправьте ссылку из TikTok\n</blockquote>\n\n🤖Свяжитесь с нами по всем вопросам - @symananger\n                    ', 'start.jpg'][0m
+[38;5;87m[2024-12-25 02:59:26,397] BOT: INFO [user id: 1357108258] USER SEND TEXT: /admin[0m
+[38;5;87m[2024-12-25 02:59:32,713] BOT: INFO [user id: 1357108258] ADMIN CLICK ON sharing[0m
+[38;5;87m[2024-12-25 02:59:56,219] BOT: INFO [user id: 1357108258] USER SEND TEXT: None[0m
+[38;5;87m[2024-12-25 03:00:02,521] BOT: INFO [user id: 1357108258] USER SEND TEXT: /next[0m
+[38;5;201m[2024-12-25 03:00:03,240] MARIA: INFO [user id: ] create new patron[0m
+[38;5;87m[2024-12-25 03:00:58,336] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:01:11,319] BOT: INFO [user id: 1357108258] USER CLICK ON download_video 360p 📹 pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:01:11,321] BOT: INFO [user id: ] {}[0m
+[38;5;87m[2024-12-25 03:01:22,639] BOT: INFO [user id: ] {1357108258: False}[0m
+[38;5;87m[2024-12-25 03:01:29,967] BOT: INFO [user id: 1357108258] USER CLICK ON back_to_main 19366 pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:01:46,207] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:01:51,814] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:01:55,990] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:01,747] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:07,069] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:14,971] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:18,209] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:21,819] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:21,822] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:21,822] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:21,886] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:21,886] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:21,887] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:21,922] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:45,497] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:02:45,497] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:03:25,764] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:03:34,195] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:03:42,121] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:03:52,248] BOT: INFO [user id: 1357108258] USER CLICK ON download_image pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 03:04:13,923] BOT: INFO [user id: 1357108258] USER SEND TEXT: /admin[0m
+[38;5;87m[2024-12-25 03:04:24,478] BOT: INFO [user id: 1357108258] ADMIN CLICK ON sharing[0m
+[38;5;87m[2024-12-25 03:04:34,634] BOT: INFO [user id: 1357108258] USER SEND TEXT: None[0m
+[38;5;87m[2024-12-25 03:04:37,797] BOT: INFO [user id: 1357108258] USER SEND TEXT: 1 :|: https://www.instagram.com/stories/tevadiavel/3518430750831639277[0m
+[38;5;87m[2024-12-25 03:04:40,342] BOT: INFO [user id: 1357108258] USER SEND TEXT: 1 :|: https://www.instagram.com/stories/tevadiavel/3518430750831639277[0m
+[38;5;87m[2024-12-25 03:04:42,604] BOT: INFO [user id: 1357108258] USER SEND TEXT: /next[0m
+[38;5;201m[2024-12-25 03:04:43,371] MARIA: INFO [user id: ] create new patron[0m
+[38;5;87m[2024-12-25 03:04:48,279] BOT: INFO [user id: 1357108258] ADMIN CLICK ON clear_state[0m
+[38;5;87m[2024-12-25 03:04:50,361] BOT: INFO [user id: 1357108258] ADMIN CLICK ON sharing[0m
+[38;5;87m[2024-12-25 03:04:53,791] BOT: INFO [user id: 1357108258] ADMIN CLICK ON sharing[0m
+[38;5;87m[2024-12-25 03:05:01,773] BOT: INFO [user id: 1357108258] USER SEND TEXT: None[0m
+[38;5;87m[2024-12-25 03:05:06,160] BOT: INFO [user id: 1357108258] USER SEND TEXT: 1 :|: https://www.instagram.com/stories/tevadiavel/3518430750831639277[0m
+[38;5;87m[2024-12-25 03:05:12,946] BOT: INFO [user id: 1357108258] USER SEND TEXT: 3 :|: https://www.instagram.com/stories/tevadiavel/3518430750831639277[0m
+[38;5;87m[2024-12-25 03:05:17,053] BOT: INFO [user id: 1357108258] USER SEND TEXT: /next[0m
+[38;5;87m[2024-12-25 03:17:46,988] BOT: INFO [user id: 1357108258] ADMIN CLICK ON clear_state[0m
+[38;5;87m[2024-12-25 03:17:49,643] BOT: INFO [user id: 1357108258] ADMIN CLICK ON sharing[0m

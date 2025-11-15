@@ -1,0 +1,10 @@
+[38;5;201m[2024-12-19 16:39:14,527] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-12-19 16:39:34,357] BOT: INFO [user id: 1357108258] USER SEND TEXT: /admin[0m
+[38;5;87m[2024-12-19 16:39:36,327] BOT: INFO [user id: 1357108258] ADMIN CLICK ON mailing[0m
+[38;5;87m[2024-12-19 16:39:52,320] BOT: INFO [user id: 1357108258] USER SEND TEXT: None[0m
+[38;5;87m[2024-12-19 16:40:08,180] BOT: INFO [user id: 1357108258] USER SEND TEXT: 1 :|: https://www.instagram.com/stories/tevadiavel/3518430750831639277[0m
+[38;5;87m[2024-12-19 16:40:13,851] BOT: INFO [user id: 1357108258] USER SEND TEXT: 2 :|: https://www.instagram.com/stories/tevadiavel/3518430750831639277[0m
+[38;5;87m[2024-12-19 16:40:17,961] BOT: INFO [user id: 1357108258] USER SEND TEXT: 3 :|: https://www.instagram.com/stories/tevadiavel/3518430750831639277[0m
+[38;5;87m[2024-12-19 16:40:21,732] BOT: INFO [user id: 1357108258] USER SEND TEXT: /next[0m
+[38;5;201m[2024-12-19 16:40:22,451] MARIA: INFO [user id: ] create new mailing fsdfasdfasdf, {'1': 'https://www.instagram.com/stories/tevadiavel/3518430750831639277', '2': 'https://www.instagram.com/stories/tevadiavel/3518430750831639277', '3': 'https://www.instagram.com/stories/tevadiavel/3518430750831639277'}, {'photo': 'AgACAgIAAxkBAAJLY2dkFBjhHtwOzEbyE6UrPe-RFFJIAAJ95jEbxWEhS-_BlFhOKVmlAQADAgADeAADNgQ'}[0m
+[38;5;87m[2024-12-19 16:40:23,107] BOT: INFO [user id: ] sent to 1357108258 0[0m

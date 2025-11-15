@@ -1,0 +1,3 @@
+[38;5;201m[2024-11-09 16:55:36,705] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-09 16:55:41,519] BOT: INFO [user id: 1357108258] USER SEND TEXT: self.photo = video_info.get('thumbnails')[-1].get("url")[0m
+[38;5;87m[2024-11-09 16:55:52,403] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m

@@ -1,0 +1,6 @@
+[38;5;201m[2024-11-28 23:05:37,160] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-28 23:05:43,068] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-28 23:05:49,517] BOT: INFO [user id: 1357108258] USER CLICK ON download_video 1080p ⚡️ XBleNfmkScA[0m
+[38;5;87m[2024-11-28 23:05:49,610] BOT: INFO [user id: ] {'message_id': 19001, 'download_now': False, 'language': 'ru'}[0m
+[38;5;87m[2024-11-28 23:05:53,204] BOT: INFO [user id: 1357108258] USER CLICK ON download_video 1080p ⚡️ XBleNfmkScA[0m
+[38;5;87m[2024-11-28 23:05:53,309] BOT: INFO [user id: ] {'message_id': 19001, 'download_now': False, 'language': 'ru'}[0m

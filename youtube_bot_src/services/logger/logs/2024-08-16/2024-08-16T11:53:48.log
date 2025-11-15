@@ -1,0 +1,8 @@
+[38;5;201m[2024-08-16 11:53:50,702] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-08-16 11:54:08,085] BOT: INFO [user id: ] ['1080p', '720p', '480p', '360p', '144p'][0m
+[38;5;87m[2024-08-16 11:54:11,434] BOT: INFO [user id: ] ['Download', 'MB', 'Sending audio, wait'][0m
+[38;5;87m[2024-08-16 11:54:11,857] BOT: INFO [user id: 1357108258] https://www.youtube.com/watch?v=czeYbohkyJw[0m
+[38;5;87m[2024-08-16 11:54:16,106] BOT: INFO [user id: ] [datetime.datetime(2024, 8, 16, 11, 54, 16, 106268), 'finish download'][0m
+[38;5;87m[2024-08-16 11:54:21,935] BOT: INFO [user id: ] [datetime.datetime(2024, 8, 16, 11, 54, 21, 935182), 'finish sending'][0m
+[38;5;87m[2024-08-16 11:54:26,798] BOT: INFO [user id: ] ['Download', 'MB', 'Sending audio, wait'][0m
+[38;5;87m[2024-08-16 11:54:27,235] BOT: INFO [user id: 1357108258] https://www.youtube.com/watch?v=czeYbohkyJw[0m

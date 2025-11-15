@@ -1,0 +1,10 @@
+[38;5;201m[2024-10-01 02:16:31,431] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-01 02:16:43,322] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-01 02:16:45,567] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-01 02:16:48,184] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 1, 2, 16, 48, 184218), 'finish download'][0m
+[38;5;87m[2024-10-01 02:16:48,455] BOT: ERROR [user id: 1357108258] In send audio 'ClassTikTok' object has no attribute 'title'[0m
+[38;5;87m[2024-10-01 02:16:48,455] BOT: ERROR [user id: 1357108258] In send audio 'ClassTikTok' object has no attribute 'title'[0m
+[38;5;87m[2024-10-01 02:16:48,455] BOT: ERROR [user id: 1357108258] In send audio 'ClassTikTok' object has no attribute 'title'[0m
+[38;5;87m[2024-10-01 02:16:48,455] BOT: ERROR [user id: 1357108258] In send audio 'ClassTikTok' object has no attribute 'title'[0m
+[38;5;87m[2024-10-01 02:16:48,455] BOT: ERROR [user id: 1357108258] In send audio 'ClassTikTok' object has no attribute 'title'[0m
+[38;5;87m[2024-10-01 02:16:49,326] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 1, 2, 16, 49, 326628), 'finish sending'][0m

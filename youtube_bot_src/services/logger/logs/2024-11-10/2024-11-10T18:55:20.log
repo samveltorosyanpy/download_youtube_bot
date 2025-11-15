@@ -1,0 +1,13 @@
+[38;5;201m[2024-11-10 18:55:22,361] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-10 18:55:29,991] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=c4SwcdGsRhQ[0m
+[38;5;87m[2024-11-10 18:55:36,322] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'c4SwcdGsRhQ'][0m
+[38;5;87m[2024-11-10 18:55:40,155] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:55:40,472] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:55:40,891] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:55:41,222] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:55:41,608] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:55:43,077] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:55:43,399] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:55:51,753] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18061', 'c4SwcdGsRhQ'][0m
+[38;5;87m[2024-11-10 18:55:51,754] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18061', 'c4SwcdGsRhQ'][0m
+[38;5;87m[2024-11-10 18:55:56,250] BOT: ERROR [user id: ] HTTP Client says - ClientConnectionError: Failed to send bytes into the underlying connection Connection<ConnectionKey(host='66.151.41.52', port=8081, is_ssl=False, ssl=True, proxy=None, proxy_auth=None, proxy_headers_hash=5028606904832341856)>[0m

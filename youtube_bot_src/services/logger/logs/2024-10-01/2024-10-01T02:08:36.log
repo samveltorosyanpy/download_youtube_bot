@@ -1,0 +1,7 @@
+[38;5;201m[2024-10-01 02:08:39,247] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-01 02:08:44,837] BOT: INFO [user id: 1357108258] https://vt.tiktok.com/ZS2s5KhGN/[0m
+[38;5;87m[2024-10-01 02:08:44,947] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-01 02:08:45,685] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-01 02:08:55,575] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-10-01 02:09:01,487] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 1, 2, 9, 1, 487426), 'finish download'][0m
+[38;5;87m[2024-10-01 02:09:15,545] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 1, 2, 9, 15, 545499), 'finish sending'][0m

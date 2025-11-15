@@ -1,0 +1,8 @@
+[38;5;201m[2024-11-07 23:14:54,453] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-07 23:14:59,322] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'EzBnOgkarms'][0m
+[38;5;87m[2024-11-07 23:15:05,370] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=EzBnOgkarms, exc_count: 5[0m
+[38;5;87m[2024-11-07 23:15:05,449] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=EzBnOgkarms, exc_count: 5[0m
+[38;5;87m[2024-11-07 23:15:05,641] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=EzBnOgkarms, exc_count: 5[0m
+[38;5;87m[2024-11-07 23:15:05,707] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=EzBnOgkarms, exc_count: 5[0m
+[38;5;87m[2024-11-07 23:15:05,764] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=EzBnOgkarms, exc_count: 5[0m
+[38;5;87m[2024-11-07 23:15:05,800] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=EzBnOgkarms, exc_count: 5[0m

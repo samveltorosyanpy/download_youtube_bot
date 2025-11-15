@@ -1,0 +1,2 @@
+[38;5;201m[2024-11-04 21:19:01,655] MARIA: ERROR [user id: ] Sorry failed to connect: (pymysql.err.OperationalError) (2003, "Can't connect to MySQL server on '66.151.41.52' ([Errno 61] Connection refused)")
+(Background on this error at: https://sqlalche.me/e/20/e3q8)[0m

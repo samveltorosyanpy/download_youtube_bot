@@ -1,0 +1,5 @@
+[38;5;201m[2024-11-05 00:29:23,405] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;201m[2024-11-05 00:29:40,973] MARIA: ERROR [user id: 1357108258] USER IS EXIT[0m
+[38;5;87m[2024-11-05 00:29:42,278] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 1[0m
+[38;5;87m[2024-11-05 00:29:43,122] BOT: INFO [user id: 1357108258] user agent is valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE[0m
+[38;5;87m[2024-11-05 00:29:43,932] BOT: INFO [user id: 1357108258] Start download video: https://www.youtube.com/watch?v=mb8PIPITYkE[0m

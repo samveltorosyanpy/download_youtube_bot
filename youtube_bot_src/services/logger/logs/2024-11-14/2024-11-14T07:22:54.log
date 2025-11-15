@@ -1,0 +1,254 @@
+[38;5;201m[2024-11-14 07:22:56,407] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-14 07:22:59,508] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-14 07:23:15,274] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-14 07:23:15,275] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-14 07:23:27,451] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-14 07:23:27,451] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-14 07:23:32,761] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:32,998] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:33,013] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:33,386] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:33,399] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:35,930] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:36,494] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:37,341] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:37,369] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:39,147] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:39,324] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:40,583] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:40,870] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:41,264] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:42,152] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:43,334] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:44,874] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:46,273] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:48,246] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:48,747] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:49,135] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:49,513] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:49,779] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:50,033] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:50,258] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:50,474] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:50,690] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:50,912] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:53,245] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:23:54,371] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:54,918] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:55,309] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:55,539] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:55,804] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:56,354] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:56,626] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:56,852] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:57,152] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:57,380] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:57,599] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:57,815] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:58,041] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:58,263] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:58,517] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:58,736] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:58,952] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:59,165] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:59,384] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:59,604] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:23:59,820] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:00,034] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:00,252] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:00,470] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:00,683] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:00,899] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:01,114] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:01,327] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:01,543] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:01,758] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:01,974] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:02,192] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:02,407] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:02,630] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:02,847] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:03,065] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:03,280] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:03,492] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:03,705] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:03,923] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:04,136] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:04,351] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:04,566] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:04,783] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:04,996] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:05,220] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:05,435] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:05,650] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:05,841] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 3 seconds.
+Original description: Too Many Requests: retry after 3
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:06,112] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:06,338] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:06,572] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:06,898] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:07,208] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:07,598] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:08,898] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:09,806] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:24:10,925] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:24:12,695] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:12,915] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:13,152] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:13,408] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:13,671] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:14,236] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:15,286] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:15,827] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:16,424] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-14 07:24:16,880] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:18,397] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:18,957] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:19,249] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:19,482] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:19,744] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:19,970] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:20,467] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:20,689] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:20,907] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:21,210] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:21,427] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:21,664] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:21,880] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:22,124] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:22,213] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 13 seconds.
+Original description: Too Many Requests: retry after 13
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:22,366] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 13 seconds.
+Original description: Too Many Requests: retry after 13
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:22,504] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 13 seconds.
+Original description: Too Many Requests: retry after 13
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:22,773] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:22,794] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 13 seconds.
+Original description: Too Many Requests: retry after 13
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:23,009] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:23,049] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 12 seconds.
+Original description: Too Many Requests: retry after 12
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:23,307] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 12 seconds.
+Original description: Too Many Requests: retry after 12
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:23,367] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 12 seconds.
+Original description: Too Many Requests: retry after 12
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:23,724] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 12 seconds.
+Original description: Too Many Requests: retry after 12
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:23,841] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 12 seconds.
+Original description: Too Many Requests: retry after 12
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:24,055] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:24,186] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:24,359] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:24,498] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:24,661] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:24,766] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 11 seconds.
+Original description: Too Many Requests: retry after 11
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:24,980] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:25,100] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:25,263] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:25,460] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:25,589] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:25,743] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:25,859] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 10 seconds.
+Original description: Too Many Requests: retry after 10
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:25,997] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 9 seconds.
+Original description: Too Many Requests: retry after 9
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:26,089] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 9 seconds.
+Original description: Too Many Requests: retry after 9
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:26,249] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 9 seconds.
+Original description: Too Many Requests: retry after 9
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:26,323] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 9 seconds.
+Original description: Too Many Requests: retry after 9
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:26,505] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 9 seconds.
+Original description: Too Many Requests: retry after 9
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:26,604] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 9 seconds.
+Original description: Too Many Requests: retry after 9
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:26,737] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 9 seconds.
+Original description: Too Many Requests: retry after 9
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:26,841] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 9 seconds.
+Original description: Too Many Requests: retry after 9
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m
+[38;5;87m[2024-11-14 07:24:27,058] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:27,275] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:27,496] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:27,711] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:27,927] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:28,143] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:28,370] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:28,588] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:28,805] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:29,024] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:29,242] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:29,458] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:29,675] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:29,893] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:30,111] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:30,340] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:30,553] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:30,771] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:30,987] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:31,203] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:31,428] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:31,644] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:31,862] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:32,087] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:32,305] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:32,525] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:32,746] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:32,965] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:33,184] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:33,442] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:33,660] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:33,877] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:34,094] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:34,309] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:34,543] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:34,759] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:34,975] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:35,190] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:35,405] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:35,665] BOT: ERROR [user id: ] Telegram server says - Bad Request: canceled by new editMessageMedia request[0m
+[38;5;87m[2024-11-14 07:24:38,744] BOT: ERROR [user id: ] Telegram server says - Flood control exceeded on method 'EditMessageMedia' in chat 1357108258. Retry in 3 seconds.
+Original description: Too Many Requests: retry after 3
+(background on this error at: https://core.telegram.org/bots/faq#my-bot-is-hitting-limits-how-do-i-avoid-this)[0m

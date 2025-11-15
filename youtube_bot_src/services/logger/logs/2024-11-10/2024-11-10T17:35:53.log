@@ -1,0 +1,324 @@
+[38;5;201m[2024-11-10 17:35:54,975] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-10 17:36:06,491] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'c4SwcdGsRhQ'][0m
+[38;5;87m[2024-11-10 17:36:11,222] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:11,323] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:11,425] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:11,526] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:11,644] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:11,758] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:11,859] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:11,960] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:12,062] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:12,164] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:12,265] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:12,367] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:12,468] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:12,570] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:12,672] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:12,774] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:12,876] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:12,978] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:13,084] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:13,186] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:13,288] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:13,391] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:13,493] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:13,595] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:13,697] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:13,798] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:13,900] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:14,004] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:14,106] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:14,207] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:14,309] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:14,411] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:14,513] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:14,615] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:14,716] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:14,818] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:14,920] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:15,021] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:15,123] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:15,224] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:15,326] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:15,427] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:15,529] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:15,630] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:15,732] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:36:15,834] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string [type=string_type, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_type
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=None, input_type=NoneType]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m

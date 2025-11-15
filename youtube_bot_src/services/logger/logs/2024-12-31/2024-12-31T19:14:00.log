@@ -1,0 +1,6 @@
+[38;5;201m[2024-12-31 19:14:02,864] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-12-31 19:14:05,226] BOT: INFO [user id: 1357108258] USER SEND TEXT: /start[0m
+[38;5;87m[2024-12-31 19:20:02,479] BOT: INFO [user id: 1357108258] USER SEND TEXT: None[0m
+[38;5;87m[2024-12-31 19:20:02,977] BOT: ERROR [user id: argument of type 'NoneType' is not iterable] 1357108258[0m
+[38;5;87m[2024-12-31 19:20:02,977] BOT: ERROR [user id: argument of type 'NoneType' is not iterable] 1357108258[0m
+[38;5;87m[2024-12-31 19:20:02,977] BOT: ERROR [user id: argument of type 'NoneType' is not iterable] 1357108258[0m

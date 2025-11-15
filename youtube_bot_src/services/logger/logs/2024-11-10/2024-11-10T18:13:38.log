@@ -1,0 +1,4 @@
+[38;5;201m[2024-11-10 18:13:40,187] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-10 18:13:45,345] BOT: INFO [user id: 1357108258] USER SEND TEXT: print(user_data.get("message_id"))[0m
+[38;5;87m[2024-11-10 18:13:53,051] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=c4SwcdGsRhQ[0m
+[38;5;87m[2024-11-10 18:14:00,758] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'c4SwcdGsRhQ'][0m

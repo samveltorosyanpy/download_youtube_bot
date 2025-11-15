@@ -1,0 +1,2 @@
+[38;5;201m[2024-10-23 12:15:38,991] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-23 12:16:04,118] BOT: ERROR [user id: ] HTTP Client says - ServerDisconnectedError: Server disconnected[0m

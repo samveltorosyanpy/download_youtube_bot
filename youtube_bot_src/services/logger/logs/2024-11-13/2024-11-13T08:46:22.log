@@ -1,0 +1,23 @@
+[38;5;201m[2024-11-13 08:46:25,239] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-13 08:49:05,333] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-13 08:49:12,809] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:49:12,810] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:49:45,633] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-13 08:49:50,548] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_mp3', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:49:57,346] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-13 08:50:04,692] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '144p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:50:04,693] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '144p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:50:20,624] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-13 08:50:26,969] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '144p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:50:26,969] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '144p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:50:40,809] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18175', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:50:40,810] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18175', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:50:40,811] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18175', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:50:43,146] BOT: ERROR [user id: ] name 'photo' is not defined[0m
+[38;5;87m[2024-11-13 08:50:57,236] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18175', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:50:57,236] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18175', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:50:57,236] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18175', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:50:59,516] BOT: ERROR [user id: ] name 'photo' is not defined[0m
+[38;5;87m[2024-11-13 08:51:32,072] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=XBleNfmkScA[0m
+[38;5;87m[2024-11-13 08:51:37,543] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_mp3', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 08:51:40,379] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m

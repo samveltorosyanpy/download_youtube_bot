@@ -1,0 +1,21 @@
+[38;5;201m[2024-10-07 19:30:02,429] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-07 19:30:34,012] BOT: INFO [user id: ] ['1080p', '720p', '480p', '360p', '144p'][0m
+[38;5;87m[2024-10-07 19:30:37,396] BOT: INFO [user id: ] ['Ներբեռնում', 'ՄԲ', 'Ուղարկում եմ աուդիոն, սպասեք'][0m
+[38;5;87m[2024-10-07 19:30:38,917] BOT: INFO [user id: 1357108258] https://www.youtube.com/watch?v=1O0yazhqaxs[0m
+[38;5;87m[2024-10-07 19:30:38,968] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-07 19:30:39,670] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-07 19:30:41,162] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 7, 19, 30, 41, 162187), 'finish download'][0m
+[38;5;87m[2024-10-07 19:30:44,413] BOT: INFO [user id: ] ['Ներբեռնում', 'ՄԲ', 'Ուղարկում եմ աուդիոն, սպասեք'][0m
+[38;5;87m[2024-10-07 19:30:45,397] BOT: INFO [user id: ] ['Ներբեռնում', 'ՄԲ', 'Ուղարկում եմ աուդիոն, սպասեք'][0m
+[38;5;87m[2024-10-07 19:30:46,681] BOT: INFO [user id: 1357108258] https://www.youtube.com/watch?v=1O0yazhqaxs[0m
+[38;5;87m[2024-10-07 19:30:46,717] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-07 19:30:47,778] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-07 19:30:48,208] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 7, 19, 30, 48, 207938), 'finish sending'][0m
+[38;5;87m[2024-10-07 19:30:49,792] BOT: INFO [user id: 1357108258] https://www.youtube.com/watch?v=1O0yazhqaxs[0m
+[38;5;87m[2024-10-07 19:30:49,841] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-07 19:30:50,822] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-07 19:30:50,997] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 7, 19, 30, 50, 997459), 'finish download'][0m
+[38;5;87m[2024-10-07 19:30:52,225] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 7, 19, 30, 52, 225983), 'finish download'][0m
+[38;5;87m[2024-10-07 19:30:55,019] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 7, 19, 30, 55, 19107), 'finish sending'][0m
+[38;5;87m[2024-10-07 19:30:55,999] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 7, 19, 30, 55, 999916), 'finish sending'][0m
+[38;5;87m[2024-10-07 19:31:38,063] BOT: INFO [user id: ] ['1080p', '720p', '480p', '360p', '144p'][0m

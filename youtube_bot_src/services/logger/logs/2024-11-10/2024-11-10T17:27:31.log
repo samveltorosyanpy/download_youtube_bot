@@ -1,0 +1,44 @@
+[38;5;201m[2024-11-10 17:27:33,804] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-10 17:27:36,776] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'c4SwcdGsRhQ'][0m
+[38;5;87m[2024-11-10 17:27:41,620] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string, unable to parse raw data as a unicode string [type=string_unicode, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_unicode
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:27:41,876] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string, unable to parse raw data as a unicode string [type=string_unicode, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_unicode
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:27:42,286] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string, unable to parse raw data as a unicode string [type=string_unicode, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_unicode
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:27:42,908] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string, unable to parse raw data as a unicode string [type=string_unicode, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_unicode
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:27:43,169] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string, unable to parse raw data as a unicode string [type=string_unicode, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_unicode
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m
+[38;5;87m[2024-11-10 17:27:43,432] BOT: ERROR [user id: ] 2 validation errors for InputMediaPhoto
+media.str
+  Input should be a valid string, unable to parse raw data as a unicode string [type=string_unicode, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/string_unicode
+media.is-instance[InputFile]
+  Input should be an instance of InputFile [type=is_instance_of, input_value=b'RIFF$\x17\x00\x00WEBPVP...a7Z\x15\xc4\x00\x00\x00', input_type=bytes]
+    For further information visit https://errors.pydantic.dev/2.8/v/is_instance_of[0m

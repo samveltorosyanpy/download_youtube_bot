@@ -1,0 +1,7 @@
+[38;5;201m[2024-12-25 04:55:09,459] MARIA: ERROR [user id: ] Sorry failed to connect: (pymysql.err.InterfaceError) (0, '')
+(Background on this error at: https://sqlalche.me/e/20/rvf5)[0m
+[38;5;87m[2024-12-25 05:05:44,027] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 05:05:51,299] BOT: INFO [user id: 1357108258] USER CLICK ON download_video 720p 📹 pYymRbfjKv8[0m
+[38;5;87m[2024-12-25 05:05:51,299] BOT: INFO [user id: ] {}[0m
+[38;5;87m[2024-12-25 05:06:02,363] BOT: INFO [user id: ] {1357108258: False}[0m
+[38;5;87m[2024-12-25 05:06:10,249] BOT: INFO [user id: 1357108258] USER CLICK ON back_to_main 19504 pYymRbfjKv8[0m

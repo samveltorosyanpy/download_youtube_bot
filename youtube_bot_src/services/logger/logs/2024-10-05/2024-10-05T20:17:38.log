@@ -1,0 +1,5 @@
+[38;5;201m[2024-10-05 20:17:41,938] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-05 20:17:44,260] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-05 20:17:47,211] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-05 20:18:11,586] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 5, 20, 18, 11, 586543), 'finish download'][0m
+[38;5;87m[2024-10-05 20:18:11,589] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 5, 20, 18, 11, 589448), 'finish sending'][0m

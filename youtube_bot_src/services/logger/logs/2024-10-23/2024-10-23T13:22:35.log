@@ -1,0 +1,2 @@
+[38;5;201m[2024-10-23 13:22:37,864] MARIA: ERROR [user id: ] Sorry failed to connect: (pymysql.err.InterfaceError) (0, '')
+(Background on this error at: https://sqlalche.me/e/20/rvf5)[0m

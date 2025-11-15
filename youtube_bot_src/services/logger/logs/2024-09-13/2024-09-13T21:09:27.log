@@ -1,0 +1,6 @@
+[38;5;201m[2024-09-13 21:09:30,109] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-09-13 21:09:33,552] BOT: INFO [user id: ] Created backup file for Mailings_backup[0m
+[38;5;87m[2024-09-13 21:09:33,552] BOT: INFO [user id: ] Created backup file for SubsAds_backup[0m
+[38;5;87m[2024-09-13 21:09:33,552] BOT: INFO [user id: ] Created backup file for Sharing_backup[0m
+[38;5;87m[2024-09-13 21:09:33,552] BOT: INFO [user id: ] Created backup file for Users_backup[0m
+[38;5;87m[2024-09-13 21:09:33,754] BOT: INFO [user id: ] Created backup file for Subs_backup[0m

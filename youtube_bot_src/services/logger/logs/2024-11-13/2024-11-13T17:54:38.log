@@ -1,0 +1,14 @@
+[38;5;201m[2024-11-13 17:54:41,019] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-13 17:54:43,933] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18207', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 17:54:43,933] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18207', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 17:54:43,933] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18207', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 17:54:49,004] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '480p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 17:54:49,005] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '480p', '📹', 'XBleNfmkScA'][0m
+[38;5;87m[2024-11-13 17:54:52,954] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-13 17:54:53,299] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-13 17:54:53,755] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-13 17:54:54,240] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-13 17:54:54,548] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-13 17:54:56,228] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-13 17:54:58,773] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-13 17:55:08,257] BOT: ERROR [user id: ] HTTP Client says - ServerDisconnectedError: Server disconnected[0m

@@ -1,0 +1,11 @@
+[38;5;201m[2024-10-02 22:41:05,817] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-02 22:41:15,053] BOT: INFO [user id: 1357108258] https://www.tiktok.com/@_brunette_e_/video/7417465210069404936?is_from_webapp=1&sender_device=pc[0m
+[38;5;87m[2024-10-02 22:41:15,108] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-02 22:41:16,779] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-02 22:41:18,954] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 2, 22, 41, 18, 954359), 'finish download'][0m
+[38;5;87m[2024-10-02 22:41:23,662] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 2, 22, 41, 23, 662878), 'finish sending'][0m
+[38;5;87m[2024-10-02 22:41:28,052] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-02 22:41:32,853] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-02 22:41:34,748] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-10-02 22:41:35,358] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-10-02 22:41:35,824] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 2, 22, 41, 35, 824130), 'finish download'][0m

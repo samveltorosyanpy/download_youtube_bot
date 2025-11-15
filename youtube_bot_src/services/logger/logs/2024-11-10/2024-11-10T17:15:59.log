@@ -1,0 +1,882 @@
+[38;5;201m[2024-11-10 17:16:01,235] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-10 17:16:03,167] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'c4SwcdGsRhQ'][0m
+[38;5;87m[2024-11-10 17:16:08,085] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:08,208] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:08,320] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:08,422] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:08,523] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:08,625] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:08,728] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:08,830] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:08,931] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:09,033] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:09,135] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:09,238] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:09,340] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:09,442] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:09,544] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:09,645] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:09,747] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:09,849] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:09,951] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:10,054] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:10,157] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:10,259] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:10,360] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:10,462] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:10,563] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:10,665] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:10,767] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:10,868] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:10,971] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:11,072] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:11,174] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:11,277] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:11,382] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:11,485] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:11,587] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:11,689] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:11,791] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:11,892] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:11,994] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:12,096] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:12,198] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:12,300] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:12,401] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:12,503] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:12,605] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:12,707] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:12,810] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:12,911] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:13,015] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:13,117] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:13,219] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:13,321] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:13,424] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:13,526] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m
+[38;5;87m[2024-11-10 17:16:13,628] BOT: ERROR [user id: ] 5 validation errors for EditMessageMedia
+media.InputMediaAnimation
+  Input should be a valid dictionary or instance of InputMediaAnimation [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaDocument
+  Input should be a valid dictionary or instance of InputMediaDocument [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaAudio
+  Input should be a valid dictionary or instance of InputMediaAudio [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaPhoto
+  Input should be a valid dictionary or instance of InputMediaPhoto [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type
+media.InputMediaVideo
+  Input should be a valid dictionary or instance of InputMediaVideo [type=model_type, input_value=InputMedia(media=<aiogram...on='Updated caption :)'), input_type=InputMedia]
+    For further information visit https://errors.pydantic.dev/2.8/v/model_type[0m

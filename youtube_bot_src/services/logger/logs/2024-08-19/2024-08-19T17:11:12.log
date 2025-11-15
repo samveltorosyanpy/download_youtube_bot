@@ -1,0 +1,2 @@
+[38;5;201m[2024-08-19 17:11:13,987] MARIA: ERROR [user id: ] Sorry failed to connect: (pymysql.err.OperationalError) (2013, 'Lost connection to MySQL server during query ([Errno 54] Connection reset by peer)')
+(Background on this error at: https://sqlalche.me/e/20/e3q8)[0m

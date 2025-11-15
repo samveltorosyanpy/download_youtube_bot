@@ -1,0 +1,5 @@
+[38;5;201m[2024-11-04 21:30:09,117] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;201m[2024-11-04 21:30:12,900] MARIA: ERROR [user id: 1357108258] (pymysql.err.IntegrityError) (1062, "Duplicate entry '1357108258' for key 'PRIMARY'")
+[SQL: INSERT INTO `Users` (id, verified, is_subscribe, is_dead, source, state, vip, lang, last_activity, created_by) VALUES (%(id)s, %(verified)s, %(is_subscribe)s, %(is_dead)s, %(source)s, %(state)s, %(vip)s, %(lang)s, %(last_activity)s, %(created_by)s)]
+[parameters: {'id': 1357108258, 'verified': 1, 'is_subscribe': 0, 'is_dead': 0, 'source': '', 'state': '', 'vip': 0, 'lang': 'ru', 'last_activity': 0, 'created_by': datetime.datetime(2024, 11, 4, 20, 30, 12, 640422)}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)[0m

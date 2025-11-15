@@ -1,0 +1,18 @@
+[38;5;201m[2024-10-02 22:59:34,186] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-02 22:59:53,790] BOT: INFO [user id: 1357108258] https://www.tiktok.com/@_brunette_e_/video/7417465210069404936?is_from_webapp=1&sender_device=pc[0m
+[38;5;87m[2024-10-02 22:59:53,847] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-02 22:59:54,246] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-02 23:00:04,322] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-10-02 23:00:04,329] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 2, 23, 0, 4, 329859), 'finish download'][0m
+[38;5;87m[2024-10-02 23:00:12,329] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 2, 23, 0, 12, 329155), 'finish sending'][0m
+[38;5;87m[2024-10-02 23:00:14,741] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-02 23:00:15,332] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-02 23:00:15,897] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-10-02 23:00:16,217] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-10-02 23:00:16,374] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 2, 23, 0, 16, 374344), 'finish download'][0m
+[38;5;87m[2024-10-02 23:00:16,538] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-10-02 23:00:17,189] BOT: ERROR [user id: 5940995211] In send audio Telegram server says - Forbidden: bots can't send messages to bots[0m
+[38;5;87m[2024-10-02 23:00:17,538] BOT: ERROR [user id: 5940995211] In send audio Telegram server says - Forbidden: bots can't send messages to bots[0m
+[38;5;87m[2024-10-02 23:00:17,821] BOT: ERROR [user id: 5940995211] In send audio Telegram server says - Forbidden: bots can't send messages to bots[0m
+[38;5;87m[2024-10-02 23:00:18,102] BOT: ERROR [user id: 5940995211] In send audio Telegram server says - Forbidden: bots can't send messages to bots[0m
+[38;5;87m[2024-10-02 23:00:18,357] BOT: ERROR [user id: 5940995211] In send audio Telegram server says - Forbidden: bots can't send messages to bots[0m

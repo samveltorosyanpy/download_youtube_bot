@@ -1,0 +1,6 @@
+[38;5;201m[2024-07-27 19:30:57,815] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-07-27 19:31:06,215] BOT: INFO [user id: 1357108258] https://www.youtube.com/watch?v=nidQCt_HEsY[0m
+[38;5;87m[2024-07-27 19:31:08,095] BOT: ERROR [user id: 1357108258] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-07-27 19:31:11,099] BOT: ERROR [user id: 1357108258] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-07-27 19:31:14,147] BOT: ERROR [user id: 1357108258] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-07-27 19:31:17,182] BOT: ERROR [user id: 1357108258] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m

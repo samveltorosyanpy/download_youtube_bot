@@ -1,0 +1,30 @@
+[38;5;201m[2024-10-03 01:37:14,572] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-10-03 01:37:18,751] BOT: INFO [user id: 1357108258] https://www.tiktok.com/@_brunette_e_/video/7417465210069404936?is_from_webapp=1&sender_device=pc[0m
+[38;5;87m[2024-10-03 01:37:19,171] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-03 01:37:21,148] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-03 01:37:30,264] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-10-03 01:37:34,324] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 37, 34, 324406), 'finish download'][0m
+[38;5;87m[2024-10-03 01:37:46,860] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 37, 46, 860062), 'finish sending'][0m
+[38;5;87m[2024-10-03 01:37:48,975] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-03 01:37:49,923] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-03 01:37:52,113] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 37, 52, 113428), 'finish download'][0m
+[38;5;87m[2024-10-03 01:37:56,279] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 37, 56, 279885), 'finish sending'][0m
+[38;5;87m[2024-10-03 01:39:39,344] BOT: INFO [user id: 1357108258] https://www.tiktok.com/@_brunette_e_/video/7417465210069404936?is_from_webapp=1&sender_device=pc[0m
+[38;5;87m[2024-10-03 01:39:39,416] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-03 01:39:41,538] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-03 01:39:57,221] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 39, 57, 221028), 'finish download'][0m
+[38;5;87m[2024-10-03 01:40:08,124] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 40, 8, 124622), 'finish sending'][0m
+[38;5;87m[2024-10-03 01:46:41,639] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-03 01:46:43,529] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-03 01:46:45,769] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 46, 45, 769374), 'finish download'][0m
+[38;5;87m[2024-10-03 01:46:50,433] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 46, 50, 433240), 'finish sending'][0m
+[38;5;87m[2024-10-03 01:47:17,973] BOT: INFO [user id: 1357108258] https://www.tiktok.com/@_brunette_e_/video/7417465210069404936?is_from_webapp=1&sender_device=pc[0m
+[38;5;87m[2024-10-03 01:47:18,046] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-03 01:47:19,882] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-03 01:47:29,231] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-10-03 01:47:35,405] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 47, 35, 405032), 'finish download'][0m
+[38;5;87m[2024-10-03 01:47:48,522] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 47, 48, 522490), 'finish sending'][0m
+[38;5;87m[2024-10-03 01:47:51,233] BOT: INFO [user id: ] 403[0m
+[38;5;87m[2024-10-03 01:47:53,060] BOT: INFO [user id: ] 200[0m
+[38;5;87m[2024-10-03 01:47:55,154] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 47, 55, 154232), 'finish download'][0m
+[38;5;87m[2024-10-03 01:47:59,614] BOT: INFO [user id: ] [datetime.datetime(2024, 10, 3, 1, 47, 59, 614240), 'finish sending'][0m

@@ -1,0 +1,11 @@
+[38;5;201m[2024-11-10 16:48:17,916] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-10 16:48:23,896] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=c4SwcdGsRhQ[0m
+[38;5;87m[2024-11-10 16:48:42,872] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '1080p', '⚡️', 'c4SwcdGsRhQ'][0m
+[38;5;87m[2024-11-10 16:48:48,025] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-11-10 16:48:48,273] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-11-10 16:48:48,520] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-11-10 16:48:48,769] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-11-10 16:48:49,030] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-11-10 16:48:49,259] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-11-10 16:48:49,462] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m
+[38;5;87m[2024-11-10 16:48:49,654] BOT: ERROR [user id: ] Telegram server says - Bad Request: message to edit not found[0m

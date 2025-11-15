@@ -1,0 +1,11 @@
+[38;5;201m[2024-11-10 18:40:32,261] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;87m[2024-11-10 18:40:43,844] BOT: INFO [user id: 1357108258] USER SEND TEXT: https://www.youtube.com/watch?v=l_KM5iynPXM[0m
+[38;5;87m[2024-11-10 18:40:53,493] BOT: INFO [user id: 1357108258] USER CLICK ON ['download_video', '720p', '📹', 'l_KM5iynPXM'][0m
+[38;5;87m[2024-11-10 18:41:01,590] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:41:02,821] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18050', 'l_KM5iynPXM'][0m
+[38;5;87m[2024-11-10 18:41:02,822] BOT: INFO [user id: 1357108258] USER CLICK ON ['back_to_main', '18050', 'l_KM5iynPXM'][0m
+[38;5;87m[2024-11-10 18:41:07,249] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:41:09,016] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:41:10,427] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:41:12,216] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m
+[38;5;87m[2024-11-10 18:41:13,668] BOT: ERROR [user id: ] Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message[0m

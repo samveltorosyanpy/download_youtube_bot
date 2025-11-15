@@ -1,0 +1,103 @@
+version: '3.9'
+
+services:
+
+  telegram-bot:
+    container_name: YoutubeBot
+    build: YoutubeBot/.
+    env_file:
+      - env/.env.youtube_bot
+    ports:
+      - "8083:8083"
+    restart: always
+    volumes:
+      - ./YoutubeBot:/app
+      - ~/snap/firefox/common/.mozilla/firefox:/root/snap/firefox/common/.mozilla/firefox
+
+#    deploy:
+#      resources:
+#        limits:
+#          memory: 2G
+#          cpus: '3.0'
+#        reservations:
+#          memory: 1G
+    depends_on:
+      - redis
+      - telegram-bot-api
+      - nginx
+      - mariadb
+
+  telegram-bot-api:
+    container_name: ApiTelegramBot
+    image: aiogram/telegram-bot-api:latest
+    restart: always
+    environment:
+      TELEGRAM_API_ID: 26197682
+      TELEGRAM_API_HASH: be8196fd361716c00f0fcfc118cc48d1
+      TELEGRAM_LOCAL: true
+    volumes:
+      - ./telegram-bot-api:/var/lib/telegram-bot-api
+    ports:
+      - "8081:8081"
+    depends_on:
+      - redis
+      - nginx
+      - mariadb
+#    deploy:
+#      resources:
+#        limits:
+#          memory: 2G
+#          cpus: '2.0'
+#        reservations:
+#          memory: 1G
+
+  nginx:
+    container_name: NginxYoutubeBot
+    image: nginx:latest
+    restart: always
+    ports:
+      - "80:80"
+      - "443:443"
+      - "8443:8443"
+    volumes:
+      - ./nginx/ssl:/etc/ssl/certs
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf:ro
+      - ./YoutubeBot/src/media/bot/SY:/var/www/images
+    depends_on:
+      - redis
+      - mariadb
+
+  redis:
+    image: redis:6.2-alpine
+    container_name: RedisDB
+    restart: always
+    env_file:
+      - env/.env.redis
+    command: redis-server --save 20 1 --loglevel warning --requirepass *******
+    ports:
+      - '6379:6379'
+    depends_on:
+      - mariadb
+    volumes:
+      - /myredis/conf:/usr/local/etc/redis
+
+  mariadb:
+    image: mariadb:latest
+    container_name: MariaDB
+    restart: always
+    env_file:
+      - env/.env.mariadb
+    ports:
+      - "3306:3306"
+    volumes:
+      - mariadb:/var/lib/mysql
+
+volumes:
+  telegram-bot-api:
+  nginx:
+  redis:
+  mariadb:
+  telegram-bot:
+
+networks:
+  monitoring:

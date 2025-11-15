@@ -1,0 +1,10 @@
+[38;5;201m[2024-11-04 23:33:13,356] MARIA: INFO [user id: ] Successfully connected to the MariaDB database[0m
+[38;5;201m[2024-11-04 23:33:17,407] MARIA: ERROR [user id: 1357108258] USER IS EXIT[0m
+[38;5;87m[2024-11-04 23:33:18,004] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=Q2PfgOPmIVA, exc_count: 1[0m
+[38;5;87m[2024-11-04 23:33:18,663] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=Q2PfgOPmIVA, exc_count: 1[0m
+[38;5;87m[2024-11-04 23:33:20,051] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=Q2PfgOPmIVA, exc_count: 1[0m
+[38;5;87m[2024-11-04 23:33:20,579] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=Q2PfgOPmIVA, exc_count: 1[0m
+[38;5;87m[2024-11-04 23:33:21,242] BOT: INFO [user id: 1357108258] user agent is valid for the url: https://www.youtube.com/watch?v=Q2PfgOPmIVA[0m
+[38;5;201m[2024-11-04 23:34:42,337] MARIA: ERROR [user id: 1357108258] USER IS EXIT[0m
+[38;5;87m[2024-11-04 23:34:43,141] BOT: ERROR [user id: 1357108258] user agent is not valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE, exc_count: 1[0m
+[38;5;87m[2024-11-04 23:34:43,960] BOT: INFO [user id: 1357108258] user agent is valid for the url: https://www.youtube.com/watch?v=mb8PIPITYkE[0m

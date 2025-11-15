@@ -4,3 +4,4 @@ adc
 env
 telegram-bot-api
 media
+.venv
